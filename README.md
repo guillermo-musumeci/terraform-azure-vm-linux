@@ -1,5 +1,5 @@
-# Terraform Azure Virtual Machine
+# Terraform Azure Linux Virtual Machine
 
-Deploying an Azure Virtual Machine using Terraform
+Deploying an Azure Linux Virtual Machine using Terraform
 
 
